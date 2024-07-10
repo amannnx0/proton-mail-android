@@ -74,7 +74,7 @@ fun org.gradle.api.Project.android(
                 //
                 // Note that this option ( 👇 ) is deprecated and will be removed in the future.
                 // See https://developer.android.com/r/tools/annotation-processor-error-message.html for
-                // more details. 
+                // more details
                 includeCompileClasspath = true
             }
         }
